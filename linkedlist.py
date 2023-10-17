@@ -17,7 +17,17 @@ class LinkedList:
         new_node = Node(new_node_value, self.head_node)
         self.head_node = new_node
     
-    # def search_by_value(self, value):
+    def search_by_value(self, value):
+        current_node = self.head_node
+        while current_node: 
+            sub = current_node.get_value()
+            print(sub.get_value())
+
+            if current_node.get_value() == value:
+               
+                return current_node
+            current_node = current_node.get_next_node()
+        
 
 
 
