@@ -15,7 +15,7 @@ chaining of head nodes enables quick retreaving the movies which are in the genr
 main.py. My version of pattern search itelates through every element which is an array of strings from a given movie data, and compared the given value(pattern) and the strings in the array in 
 order to find a match pattern. This function doesn't mordifies the input movie data, it only returns boolean value. 
 
-Program is written only by python. *Linkelist* Data Structure and a *Patter Search Algorithm* are applied.
+Program is written only by python. *Linkelist* Data Structure and a *Patter Search* Algorithm are applied.
 
 ## Usage
 main.py automatically starts the program as it is run, hence clone this repositry and run the main are only needed to start.
