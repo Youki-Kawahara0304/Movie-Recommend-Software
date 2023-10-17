@@ -1,10 +1,10 @@
 # Movie-Recommend-Software
 A portfolio project at my coding bootcamp
 ## Description
-This program returns users recommanded :*1990's movies* as the output of listing node's value. The program takes in three inputs as conditions of serach that are movie genre, movie title, and keyword, 
+This program returns users recommanded *1990's movies* as the output of listing node's value. The program takes in three inputs as conditions of serach that are movie genre, movie title, and keyword, 
 then it searches movies stored in nested linked lists which meet the conditions of the three inputs. 
 
-*The program is consited of three files:*
+The program is consited of three files:
 - movie_list.py   Contains the data of 1990's movies
 - linkelist.py    Node class and LinkeList class are written on
 - main.py         Performs receiving user inputs and searches for the movies stored in node calss as values.
