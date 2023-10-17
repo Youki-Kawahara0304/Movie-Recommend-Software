@@ -1,10 +1,10 @@
 # Movie-Recommend-Software
 A portfolio project at my coding bootcamp
 ## Description
-This program returns users recommanded 1990's movies as the output of listing node's value. The program takes in three inputs as conditions of serach that are movie genre, movie title, and keyword, 
+This program returns users recommanded :*1990's movies* as the output of listing node's value. The program takes in three inputs as conditions of serach that are movie genre, movie title, and keyword, 
 then it searches movies stored in nested linked lists which meet the conditions of the three inputs. 
 
-###The program is consited of three files:
+*The program is consited of three files:*
 - movie_list.py   Contains the data of 1990's movies
 - linkelist.py    Node class and LinkeList class are written on
 - main.py         Performs receiving user inputs and searches for the movies stored in node calss as values.
@@ -15,7 +15,7 @@ chaining of head nodes enables quick retreaving the movies which are in the genr
 main.py. My version of pattern search itelates through every element which is an array of strings from a given movie data, and compared the given value(pattern) and the strings in the array in 
 order to find a match pattern. This function doesn't mordifies the input movie data, it only returns boolean value. 
 
-Program is written only by python. Linkelist Data Structure and a Patter Search Algorithm are applied.
+Program is written only by python. *Linkelist* Data Structure and a Patter *Search Algorithm* are applied.
 
 ## Usage
 main.py automatically starts the program as it is run, hence clone this repositry and run the main are only needed to start.
